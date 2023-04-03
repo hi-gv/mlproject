@@ -1,4 +1,9 @@
 pandas
 numpy
 seaborn
--e .
+matplotlib
+scikit-learn
+catboost
+xgboost
+#-e .
+#not need to use -e evrytime to pip install only while building packge

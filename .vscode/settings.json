@@ -1,0 +1,16 @@
+{
+    "jupyter.kernels.filter": [
+        {
+            "path": "c:\\ProgramData\\Anaconda3\\python.exe",
+            "type": "pythonEnvironment"
+        },
+        {
+            "path": "c:\\Users\\bikky\\.conda\\envs\\chat_gpt_app\\python.exe",
+            "type": "pythonEnvironment"
+        },
+        {
+            "path": "c:\\ProgramData\\Anaconda3\\envs\\gpt\\python.exe",
+            "type": "pythonEnvironment"
+        }
+    ]
+}
